@@ -89,6 +89,8 @@ Reach out to me through the following:
 - [LinkedIn](https://www.linkedin.com/in/huzeir-kurpejovic-0ba057192/)
 - My email: huzeir2k@gmail.com
 
+If you wish to take a look at more of my college projects: [click here](github.com/hk723554).
+
 ---
 
 ## Thanks for reading!
