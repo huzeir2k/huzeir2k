@@ -79,6 +79,7 @@ I've been wanting to learn the following:
 - Rocket (Rust)
 - NEXT.js
 - Cake.PHP
+- Vaadin (Java)
 
 ---
 
