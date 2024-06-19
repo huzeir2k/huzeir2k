@@ -7,10 +7,10 @@ Please take a look below and read common questions that I've been asked:
 
 ### Who am I?
 
-I'm currently a student at **St. Clair College**, a post-secondary instutition located in Windsor, Ontario.
+I'm a graduate of **St. Clair College**, a post-secondary instutition located in Windsor, Ontario.
 I started coding around 2015 when I was introduced to Python in high school (yawn). 
-Didn't get too serious, until I enrolled in the above-mentioned college in 2018 'till I flunked out, and went at it again in 2019 because I'm not a quitter.
-I've also dabbled a bit in cyber-security, though I find it to be tedious and I'm putting that on hold because I'd rather have my priorities straight.
+Didn't get too serious, until I enrolled in the above-mentioned college in 2018 'till I flunked out, and went at it again in 2019 and graduated in 2024 because I'm not a quitter, and I wanted to prove that I have more than what it takes to be a programmer.
+I've also dabbled a bit in cyber-security.
 
 ---
 
