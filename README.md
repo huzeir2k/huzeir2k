@@ -5,7 +5,7 @@ Please take a look below and read common questions that I've been asked:
 
 ---
 
-### Who am I?
+### Who are you?
 
 I'm a graduate of St. Clair College, a post-secondary instutition located in Windsor, Ontario.
 I started coding around 2015 when I was introduced to Python in high school (yawn). 
@@ -14,7 +14,7 @@ I've also dabbled a bit in cyber-security.
 
 ---
 
-### Which kind of platform do I commonly develop/engineer on?
+### Which platform(s) do you commonly develop/engineer on?
 
 I've done and still can do the following:
 
@@ -26,7 +26,7 @@ I want to get into artificial intelligence-related projects, spatial computing a
 
 ---
 
-### What kind of projects have I worked on?
+### What kind of projects have you worked on?
 
 I've worked on the following: 
 
@@ -38,7 +38,7 @@ I've worked on the following:
 
 ---
 
-### What programming languages am I proficient in?
+### What programming languages are you proficient in?
 
 Here are the following that I'm good at:
 
@@ -62,7 +62,7 @@ Here are some that I'm itching to learn but haven't found the time to do so:
 
 ---
 
-### What web/desktop frameworks have I worked with?
+### What web/desktop frameworks have you worked with?
 
 Here are some that I've worked with:
 
@@ -83,7 +83,7 @@ I've been wanting to learn the following:
 
 ---
 
-### How can I be contacted?
+### How can I contact you?
 
 Reach out to me through the following:
 
