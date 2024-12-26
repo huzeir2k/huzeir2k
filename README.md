@@ -22,7 +22,7 @@ I've done and still can do the following:
 - Web
 - Mobile (both Android and iOS)
 
-I want to get into spatial computing and 3D volumetric technology, as they seem to be pretty cool and could probably be brought into the mainstream platform.
+I want to get into artificial intelligence-related projects, spatial computing and 3D volumetric technology, as they seem to be very interesting and could probably be brought into the mainstream market.
 
 ---
 
