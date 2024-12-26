@@ -14,7 +14,7 @@ I've also dabbled a bit in cyber-security.
 
 ---
 
-### Which kind of platform do I commonly do developing work on?
+### Which kind of platform do I commonly develop/engineer on?
 
 I've done and still can do the following:
 
