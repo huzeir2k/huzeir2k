@@ -2,7 +2,7 @@
 
 ---
 
-I'm Huzeir (pronounced who's-ear) a full-stack developer based in Windsor, Ontario. Graduate of St. Clair College (2024).
+I'm Huzeir (pronounced who's-ear); a full-stack developer based in Windsor, Ontario. Graduate of St. Clair College (2024).
 I build across desktop, web, and mobile — and I'm actively looking to get into AI and spatial computing.
 
 ---
