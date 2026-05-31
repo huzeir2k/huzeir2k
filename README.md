@@ -24,8 +24,8 @@ I build across desktop, web, and mobile — and I'm actively looking to get into
 
 | Project | Description | Stack |
 |---|---|---|
-| [temi-interview-app](https://github.com/huzeir2k/temi-interview-app) | Mobile app built for a LiDAR robot's screen, developed with [@dylanshawol](https://github.com/dylanshawol) | Java |
-| [kurpejovica-enciklopedija](https://github.com/huzeir2k/kurpejovica-enciklopedija) | Web encyclopedia documenting a family history | Vue.js |
+| [ctpat-inspection-app](https://github.com/huzeir2k/ctpat-inspection-app) | Mobile app built for faster hand-held goods inspections for BCOs | React Native |
+| [kurpejovica-enciklopedija](https://github.com/huzeir2k/kurpejovica-enciklopedija) | Web encyclopedia documenting my family history | Vue.js |
 | [lasqueti-island-site](https://github.com/huzeir2k/lasqueti-island-site) | Redesign of the Lasqueti Island community website | — |
 | [fancy-eatery-website](https://github.com/paradingwolves/fancy-eatery-website) | Restaurant website built with [@paradingwolves](https://github.com/paradingwolves/) | JavaScript |
 | [InterACT](https://www.enactusstclair.ca/projects) | Projects built for Enactus St. Clair | — |
