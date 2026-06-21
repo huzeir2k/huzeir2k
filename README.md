@@ -24,7 +24,6 @@ I build across desktop, web, and mobile — and I'm actively looking to get into
 
 | Project | Description | Stack |
 |---|---|---|
-| [ctpat-inspection-app](https://github.com/huzeir2k/ctpat-inspection-app) | Mobile app built for faster hand-held goods inspections for BCOs | React Native |
 | [kurpejovica-enciklopedija](https://github.com/huzeir2k/kurpejovica-enciklopedija) | Web encyclopedia documenting my family history | Vue.js |
 | [lasqueti-island-site](https://github.com/huzeir2k/lasqueti-island-site) | Redesign of the Lasqueti Island community website | — |
 | [fancy-eatery-website](https://github.com/paradingwolves/fancy-eatery-website) | Restaurant website built with [@paradingwolves](https://github.com/paradingwolves/) | JavaScript |
